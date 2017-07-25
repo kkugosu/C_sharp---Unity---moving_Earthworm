@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/wlfjddl.unity
+  isLoaded: 1
+  isActive: 1

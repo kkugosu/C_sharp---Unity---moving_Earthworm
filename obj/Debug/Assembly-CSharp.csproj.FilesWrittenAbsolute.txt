@@ -1,0 +1,42 @@
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jongsu/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/jongsu/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jongsu/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/jongsu/NewUnityProject/obj/Debug/Assembly-CSharp.dll
+/Users/jongsu/NewUnityProject/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEditor.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jongsu/NewUnityProject/Temp/bin/Debug/Assembly-CSharp.dll
