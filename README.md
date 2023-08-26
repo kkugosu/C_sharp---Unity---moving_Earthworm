@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/github/license/RubixML/RubixML)](https://github.com/RubixML/ML/blob/master/LICENSE.md)
+
 # moving_Earthworm
 
 유전자 알고리즘으로 지렁이 학습시키기
